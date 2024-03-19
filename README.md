@@ -1,2 +1,2 @@
 # Amazon-Clone
-Landing page of Amazon's website
+Landing page of Amazon website
